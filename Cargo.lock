@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "test_cargo_dist"
+name = "test_cargo_dist_aeaf45"
 version = "0.1.0"
